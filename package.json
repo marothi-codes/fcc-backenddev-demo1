@@ -4,11 +4,12 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "Marothi Mahlake",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/marothi-codes/fcc-backenddev-demo1.git"
 	}
 }
